@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>This is test app</p>
+      <p>current time, 04:41</p>
     </div>
   );
 }
